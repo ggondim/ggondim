@@ -52,6 +52,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [VS Code Server for WSL closed unexpectedly](https:&#x2F;&#x2F;medium.com&#x2F;@ggondim&#x2F;vs-code-server-for-wsl-closed-unexpectedly-8672b28cc11f?source&#x3D;rss-1b3207baaabe------2)
+* [Usando o Airtable + Azure Functions Proxies como uma solução de Backend-as-a-Service](https:&#x2F;&#x2F;medium.com&#x2F;engenharia-noalvo&#x2F;usando-o-airtable-azure-functions-proxies-como-uma-solu%C3%A7%C3%A3o-de-backend-as-a-service-b7c3e5934117?source&#x3D;rss-1b3207baaabe------2)
+* [Fala Fabinho, tudo bem? Que bom que por aqui você consegue me responder! ](https:&#x2F;&#x2F;medium.com&#x2F;@ggondim&#x2F;fala-fabinho-tudo-bem-que-bom-que-por-aqui-voc%C3%AA-consegue-me-responder-9663ca57a5af?source&#x3D;rss-1b3207baaabe------2)
+* [Opa, obrigado por comentar!](https:&#x2F;&#x2F;medium.com&#x2F;@ggondim&#x2F;opa-obrigado-por-comentar-8aae287584f6?source&#x3D;rss-1b3207baaabe------2)
+* [As empresas que não dão retorno sobre os processos de recrutamento e o que eu fiz para combater…](https:&#x2F;&#x2F;medium.com&#x2F;@ggondim&#x2F;as-empresas-que-n%C3%A3o-d%C3%A3o-retorno-sobre-os-processos-de-recrutamento-e-o-que-eu-fiz-para-combater-ee96b3d91737?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
