@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="http://www.linkedin.com/in/gustavogondim">
     <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -31,6 +27,8 @@
     <img alt="" width="22px" src="https://unpkg.com/simple-icons@3.4.0/icons/steam.svg" />
   </a>
 </p>
+
+<br/>
 
 ### I'm CTO of NOALVO
 
