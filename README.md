@@ -1,16 +1,73 @@
-# Hi there 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+</h1>
 
-<!--
-**ggondim/ggondim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>I am building a more unopinionated, agnostic and isomorphic JavaScript ecosystem.</em></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="http://www.linkedin.com/in/gustavogondim">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ggondim">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@ggondim">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/ggondim">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/gondimgustavo">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  &nbsp;
+  <a href="skype:gustavospgondim">
+    <img alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+  </a>
+  &nbsp;
+  <a href="steam:ggondim">
+    <img alt="" width="22px" src="https://unpkg.com/simple-icons@3.4.0/icons/steam.svg" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### I'm CTO of NOALVO
+
+<img src="https://avatars0.githubusercontent.com/u/25652394?s=70&v=4" align="left" />
+
+> NOALVO is a brazilian startup for Out-of-Home media planning, buying and analytics.
+
+📦 [Our stack](https://stackshare.io/noalvo/noalvo) | 🖱 [Website](https://midianoalvo.com.br) | 📎 [Clipping (news, events & cases)](http://bit.ly/clipping-noalvo) | 🐱‍👤 [GitHub](https://github.com/noalvo)
+
+#
+
+### Contact
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left">
+
+I don't use social networks frequently, so, if you can't find me in any of social networks above, please reach me at
+<br/>[`✉ gustavospgondim@gmail.com`](mailto:gustavospgondim@gmail.com) or [`✉ gustavo@midianoalvo.com.br`](mailto:gustavo@midianoalvo.com.br) (preferred)
+
+#
+
+### My Latest Medium posts
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
+#
+
+### Github Stats
+
+![GGondim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggondim&show_icons=true)
+
+
+<!-- TODO: https://github.com/JasonEtco/readme-box -->
+<!-- TODO: https://github.com/athul/waka-readme -->
+<!-- TODO: https://github.com/JasonEtco/readme-box -->
