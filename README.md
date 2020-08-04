@@ -36,7 +36,7 @@
 
 > NOALVO is a brazilian startup for Out-of-Home media planning, buying and analytics.
 
-📦 [Our stack](https://stackshare.io/noalvo/noalvo) | 🖱 [Website](https://midianoalvo.com.br) | 📎 [Clipping (news, events & cases)](http://bit.ly/clipping-noalvo) | 🐱‍👤 [GitHub](https://github.com/noalvo)
+📦 [Our stacks](https://stackshare.io/companies/noalvo#tech-stacks) | 🖱 [Website](https://midianoalvo.com.br) | 📎 [Clipping (news, events & cases)](http://bit.ly/clipping-noalvo) | 🐱‍👤 [GitHub](https://github.com/noalvo)
 
 #
 
