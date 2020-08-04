@@ -58,7 +58,6 @@ I don't use social networks frequently, so, if you can't find me in any of socia
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
-...
 <!--END_SECTION:feed-->
 
 #
