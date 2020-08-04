@@ -1,8 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
-</h1>
-
-<p align="center"><em>I am building a more unopinionated, agnostic and isomorphic JavaScript ecosystem.</em></p>
+</p>
 
 <p align="center">
   <a href="http://www.linkedin.com/in/gustavogondim">
@@ -34,8 +32,6 @@
   </a>
 </p>
 
-<br />
-
 ### I'm CTO of NOALVO
 
 <img src="https://avatars0.githubusercontent.com/u/25652394?s=70&v=4" align="left" />
@@ -50,7 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left">
 
-I don't use social networks frequently, so, if you can't find me in any of social networks above, please reach me at
+I don't use social networks frequently, so, if you can't find me in any of above, please reach me at
 <br/>[`✉ gustavospgondim@gmail.com`](mailto:gustavospgondim@gmail.com) or [`✉ gustavo@midianoalvo.com.br`](mailto:gustavo@midianoalvo.com.br) (preferred)
 
 #
