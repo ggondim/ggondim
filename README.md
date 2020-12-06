@@ -28,7 +28,11 @@
   </a>
 </p>
 
-<br/>
+### Latest links
+
+- [Evento DoWhile 2020](https://dowhile.rocketseat.com.br/inscricao/convite/ggondim)
+
+#
 
 ### I'm CTO of NOALVO
 
