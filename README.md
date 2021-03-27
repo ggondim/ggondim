@@ -54,11 +54,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [Seus planos nunca vão dar certo](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;seus-planos-nunca-v%C3%A3o-dar-certo-7196aa3f742a?source&#x3D;rss-1b3207baaabe------2)
 * [Empreender não é sobre processos, é sobre pessoas.](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;empreender-n%C3%A3o-%C3%A9-sobre-processos-%C3%A9-sobre-pessoas-f7cf10c69ac7?source&#x3D;rss-1b3207baaabe------2)
 * [A inércia é inimiga da prosperidade](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;a-in%C3%A9rcia-%C3%A9-inimiga-da-prosperidade-e82cca3fc3fc?source&#x3D;rss-1b3207baaabe------2)
 * [2020](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;2020-364cd7cb4e3e?source&#x3D;rss-1b3207baaabe------2)
 * [VS Code Server for WSL closed unexpectedly](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;vs-code-server-for-wsl-closed-unexpectedly-8672b28cc11f?source&#x3D;rss-1b3207baaabe------2)
-* [Usando o Airtable + Azure Functions Proxies como uma solução de Backend-as-a-Service](https:&#x2F;&#x2F;medium.com&#x2F;engenharia-noalvo&#x2F;usando-o-airtable-azure-functions-proxies-como-uma-solu%C3%A7%C3%A3o-de-backend-as-a-service-b7c3e5934117?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
