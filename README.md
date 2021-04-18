@@ -54,11 +54,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [Amor vincit omnia?](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;amor-vincit-omnia-8a83980d8b58?source&#x3D;rss-1b3207baaabe------2)
 * [Seus planos nunca vão dar certo](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;seus-planos-nunca-v%C3%A3o-dar-certo-7196aa3f742a?source&#x3D;rss-1b3207baaabe------2)
 * [Empreender não é sobre processos, é sobre pessoas.](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;empreender-n%C3%A3o-%C3%A9-sobre-processos-%C3%A9-sobre-pessoas-f7cf10c69ac7?source&#x3D;rss-1b3207baaabe------2)
 * [A inércia é inimiga da prosperidade](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;a-in%C3%A9rcia-%C3%A9-inimiga-da-prosperidade-e82cca3fc3fc?source&#x3D;rss-1b3207baaabe------2)
 * [2020](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;2020-364cd7cb4e3e?source&#x3D;rss-1b3207baaabe------2)
-* [VS Code Server for WSL closed unexpectedly](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;vs-code-server-for-wsl-closed-unexpectedly-8672b28cc11f?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
