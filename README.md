@@ -54,11 +54,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [3 ways to use shared npm packages under development](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;3-ways-to-use-shared-npm-packages-under-development-ee756ac2424b?source&#x3D;rss-1b3207baaabe------2)
 * [O dilema da “equipe de produto” vs. a “equipe de desenvolvimento”](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;o-dilema-da-equipe-de-produto-vs-a-equipe-de-desenvolvimento-8ee212f233be?source&#x3D;rss-1b3207baaabe------2)
 * [Métodos de UX e quando usá-los](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;m%C3%A9todos-de-ux-e-quando-us%C3%A1-los-f3d46de73b40?source&#x3D;rss-1b3207baaabe------2)
 * [Empreender não é sobre processos, é sobre pessoas.](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;empreender-n%C3%A3o-%C3%A9-sobre-processos-%C3%A9-sobre-pessoas-f7cf10c69ac7?source&#x3D;rss-1b3207baaabe------2)
 * [VS Code Server for WSL closed unexpectedly](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;vs-code-server-for-wsl-closed-unexpectedly-8672b28cc11f?source&#x3D;rss-1b3207baaabe------2)
-* [Usando o Airtable + Azure Functions Proxies como uma solução de Backend-as-a-Service](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;usando-o-airtable-azure-functions-proxies-como-uma-solu%C3%A7%C3%A3o-de-backend-as-a-service-b7c3e5934117?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
