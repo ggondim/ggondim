@@ -54,11 +54,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [“Serverless é um erro, disse a Amazon”](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;serverless-%C3%A9-um-erro-disse-a-amazon-9f1026356c1d?source&#x3D;rss-1b3207baaabe------2)
 * [Como fiz um sistema financeiro pessoal usando somente ferramentas no-code e o ChatGPT](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;como-fiz-um-sistema-financeiro-pessoal-usando-somente-ferramentas-no-code-e-o-chatgpt-1e9e0234f9f5?source&#x3D;rss-1b3207baaabe------2)
 * [How to expand Ubuntu disk inside Virtual Machines](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;how-to-expand-ubuntu-disk-inside-virtual-machines-f31e667cbf04?source&#x3D;rss-1b3207baaabe------2)
 * [3 ways to use shared npm packages under development](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;3-ways-to-use-shared-npm-packages-under-development-ee756ac2424b?source&#x3D;rss-1b3207baaabe------2)
 * [O dilema da “equipe de produto” vs. a “equipe de desenvolvimento”](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;o-dilema-da-equipe-de-produto-vs-a-equipe-de-desenvolvimento-8ee212f233be?source&#x3D;rss-1b3207baaabe------2)
-* [Métodos de UX e quando usá-los](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;m%C3%A9todos-de-ux-e-quando-us%C3%A1-los-f3d46de73b40?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
