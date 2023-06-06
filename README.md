@@ -54,11 +54,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [Meu cliente pediu um martelo](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;meu-cliente-pediu-um-martelo-da50ab81fa50?source&#x3D;rss-1b3207baaabe------2)
 * [Zotac Gaming starts and stops cooling fan (RTX 3080)](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;zotac-gaming-starts-and-stops-cooling-fan-rtx-3080-a7be87da406a?source&#x3D;rss-1b3207baaabe------2)
 * [“Serverless é um erro, disse a Amazon”](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;serverless-%C3%A9-um-erro-disse-a-amazon-9f1026356c1d?source&#x3D;rss-1b3207baaabe------2)
 * [Como fiz um sistema financeiro pessoal usando somente ferramentas no-code e o ChatGPT](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;como-fiz-um-sistema-financeiro-pessoal-usando-somente-ferramentas-no-code-e-o-chatgpt-1e9e0234f9f5?source&#x3D;rss-1b3207baaabe------2)
 * [How to expand Ubuntu disk inside Virtual Machines](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;how-to-expand-ubuntu-disk-inside-virtual-machines-f31e667cbf04?source&#x3D;rss-1b3207baaabe------2)
-* [3 ways to use shared npm packages under development](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;3-ways-to-use-shared-npm-packages-under-development-ee756ac2424b?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
