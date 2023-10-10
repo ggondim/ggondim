@@ -30,18 +30,6 @@
 
 [See my latest links at LinkTree](https://linktr.ee/ggondim)
 
-#
-
-### I'm CTO of NOALVO
-
-<img src="https://avatars0.githubusercontent.com/u/25652394?s=70&v=4" align="left" />
-
-> NOALVO is a brazilian startup for Out-of-Home media planning, buying and analytics.
-
-📦 [Our stacks](https://stackshare.io/companies/noalvo#tech-stacks) | 🖱 [Website](https://midianoalvo.com.br) | 📎 [Clipping (news, events & cases)](http://bit.ly/clipping-noalvo) | 🐱‍👤 [GitHub](https://github.com/noalvo)
-
-#
-
 ### Contact
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left">
