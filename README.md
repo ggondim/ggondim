@@ -42,11 +42,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [Produtividade de devs no trabalho remoto: uma experiência](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;produtividade-de-devs-no-trabalho-remoto-uma-experi%C3%AAncia-6a2dfb9c5e37?source&#x3D;rss-1b3207baaabe------2)
 * [O que os últimos 7 anos de empreendedorismo me ensinaram](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;o-que-os-%C3%BAltimos-7-anos-de-empreendedorismo-me-ensinaram-e57a16c8a9f0?source&#x3D;rss-1b3207baaabe------2)
 * [Enquanto uns choram, outros vendem prompts.](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;enquanto-uns-choram-outros-vendem-prompts-8b8b099b6117?source&#x3D;rss-1b3207baaabe------2)
 * [Meu cliente pediu um martelo](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;meu-cliente-pediu-um-martelo-da50ab81fa50?source&#x3D;rss-1b3207baaabe------2)
 * [Zotac Gaming starts and stops cooling fan (RTX 3080)](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;zotac-gaming-starts-and-stops-cooling-fan-rtx-3080-a7be87da406a?source&#x3D;rss-1b3207baaabe------2)
-* [“Serverless é um erro, disse a Amazon”](https:&#x2F;&#x2F;blog.ggondim.tech&#x2F;serverless-%C3%A9-um-erro-disse-a-amazon-9f1026356c1d?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
