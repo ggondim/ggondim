@@ -42,11 +42,11 @@ I don't use social networks frequently, so, if you can't find me in any of above
 ### My Latest Medium posts
 
 <!--START_SECTION:feed-->
+* [Guia para um design de produto eficiente](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;guia-para-um-design-de-produto-eficiente-06a212cee2c8?source&#x3D;rss-1b3207baaabe------2)
 * [A Revolução da IA no mercado financeiro](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;a-revolu%C3%A7%C3%A3o-da-ia-no-mercado-financeiro-ec1cb8489700?source&#x3D;rss-1b3207baaabe------2)
 * [Instituto Nacional de Tecnologia da Informação pode prejudicar a adoção de certificação digital e…](https:&#x2F;&#x2F;medium.com&#x2F;ggondim&#x2F;instituto-nacional-de-tecnologia-da-informa%C3%A7%C3%A3o-pode-prejudicar-a-ado%C3%A7%C3%A3o-de-certifica%C3%A7%C3%A3o-digital-e-6c7e17599958?source&#x3D;rss-1b3207baaabe------2)
 * [Produtividade de devs no trabalho remoto: uma experiência](https:&#x2F;&#x2F;medium.com&#x2F;ggondim&#x2F;produtividade-de-devs-no-trabalho-remoto-uma-experi%C3%AAncia-6a2dfb9c5e37?source&#x3D;rss-1b3207baaabe------2)
 * [O que os últimos 7 anos de empreendedorismo me ensinaram](https:&#x2F;&#x2F;ggondim.medium.com&#x2F;o-que-os-%C3%BAltimos-7-anos-de-empreendedorismo-me-ensinaram-e57a16c8a9f0?source&#x3D;rss-1b3207baaabe------2)
-* [Enquanto uns choram, outros vendem prompts.](https:&#x2F;&#x2F;medium.com&#x2F;ggondim&#x2F;enquanto-uns-choram-outros-vendem-prompts-8b8b099b6117?source&#x3D;rss-1b3207baaabe------2)
 <!--END_SECTION:feed-->
 
 #
