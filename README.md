@@ -17,7 +17,7 @@
 💰 I invest in Open Source projects and reward personal side projects
 
 ```
-Social: https://linktr.ee/ggondim | E-mail: ggondim@proton.me
+Social: https://linktr.ee/ggondim | E-mail: ggondim7@proton.me
 ```
 
 
