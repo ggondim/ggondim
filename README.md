@@ -25,8 +25,10 @@ Social: https://linktr.ee/ggondim | E-mail: ggondim@proton.me
 
 As a VP of Engineering, I can't always dedicate time to OSS or side projects. So **I offer bounties for specific tasks or features in my projects**.
 
-
-
+| Project | Issue | Bounty | boss.dev | IssueHunt | GitPay |
+| ------- | ----- | ------ | -------- | --------- | ------ |
+<!--bounties-start-->
+<!--bounties-end-->
 
 <br>
 
