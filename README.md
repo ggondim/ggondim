@@ -27,8 +27,7 @@ As a VP of Engineering, I can't always dedicate time to OSS or side projects. So
 
 | Project | Issue | Bounty | boss.dev | IssueHunt | GitPay |
 | ------- | ----- | ------ | -------- | --------- | ------ |
-<!--bounties-start-->
-<!--bounties-end-->
+| [OpenIsopix](https://github.com/OpenSword/OpenIsopix) | [Implement OpenIsopix](https://github.com/OpenSword/OpenIsopix/issues/1) | $100 | [Link](https://www.boss.dev/issue/github/I_kwDOQSBVes7W1sRk) | [Link](https://oss.issuehunt.io/r/OpenSword/OpenIsopix/issues/1) | [Link](https://gitpay.me/#/task/1312) | `Godot` |
 
 <br>
 
