@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left">
 
-&nbsp;**Hi!** I'm **Gustavo Gondim,** <br>&nbsp;a Software Engineer and Tech Entrepreneur based in Brazil.
+&nbsp;&nbsp;**Hi!** I'm **Gustavo Gondim,** <br>&nbsp;&nbsp;a Software Engineer and Tech Entrepreneur based in Brazil.
 
 <br>
 
