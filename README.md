@@ -1,6 +1,6 @@
 # @ggondim
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="60px" align="left" style="margin-right:10px;" />
 
 **Hi!** I'm **Gustavo Gondim,** <br> a Software Engineer and Tech Entrepreneur based in Brazil.
 
